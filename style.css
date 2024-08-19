@@ -1,0 +1,26 @@
+.navBar{
+    color: green;
+    word-spacing: 50px;
+    position:absolute;
+    top:40px;
+    center
+    left: 50%;
+}
+
+.contact{
+
+    position: absolute;
+
+    background-color: rgb(117, 171, 37);
+    color: rgb(255, 255, 255);
+    display: inline-block;
+    text-align: center;
+    
+    border-radius: 7px;
+    position:absolute;
+    top:40px;
+    right: 50px;
+    
+    
+    font-size: 18px;
+}
